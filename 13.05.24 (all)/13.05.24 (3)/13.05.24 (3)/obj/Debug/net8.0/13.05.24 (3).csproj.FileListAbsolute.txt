@@ -1,0 +1,15 @@
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\bin\Debug\net8.0\13.05.24 (3).exe
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\bin\Debug\net8.0\13.05.24 (3).deps.json
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\bin\Debug\net8.0\13.05.24 (3).runtimeconfig.json
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\bin\Debug\net8.0\13.05.24 (3).dll
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\bin\Debug\net8.0\13.05.24 (3).pdb
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\obj\Debug\net8.0\13.05.24 (3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\obj\Debug\net8.0\13.05.24 (3).AssemblyInfoInputs.cache
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\obj\Debug\net8.0\13.05.24 (3).AssemblyInfo.cs
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\obj\Debug\net8.0\13.05.24 (3).csproj.CoreCompileInputs.cache
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\obj\Debug\net8.0\13.05.24 (3).sourcelink.json
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\obj\Debug\net8.0\13.05.24 (3).dll
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\obj\Debug\net8.0\refint\13.05.24 (3).dll
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\obj\Debug\net8.0\13.05.24 (3).pdb
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\obj\Debug\net8.0\13.05.24 (3).genruntimeconfig.cache
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\13.05.24 (3)\13.05.24 (3)\obj\Debug\net8.0\ref\13.05.24 (3).dll

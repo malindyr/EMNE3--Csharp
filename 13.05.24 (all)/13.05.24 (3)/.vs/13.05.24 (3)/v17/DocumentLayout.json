@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\13.05.24 (3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B95F9DFD-8355-49F2-A7A5-0711AA255073}|13.05.24 (3)\\13.05.24 (3).csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\13.05.24 (3)\\13.05.24 (3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95F9DFD-8355-49F2-A7A5-0711AA255073}|13.05.24 (3)\\13.05.24 (3).csproj|solutionrelative:13.05.24 (3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B95F9DFD-8355-49F2-A7A5-0711AA255073}|13.05.24 (3)\\13.05.24 (3).csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\13.05.24 (3)\\13.05.24 (3)\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B95F9DFD-8355-49F2-A7A5-0711AA255073}|13.05.24 (3)\\13.05.24 (3).csproj|solutionrelative:13.05.24 (3)\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\13.05.24 (3)\\13.05.24 (3)\\Class1.cs",
+              "RelativeDocumentMoniker": "13.05.24 (3)\\Class1.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\13.05.24 (3)\\13.05.24 (3)\\Class1.cs",
+              "RelativeToolTip": "13.05.24 (3)\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:04:25.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\13.05.24 (3)\\13.05.24 (3)\\Program.cs",
+              "RelativeDocumentMoniker": "13.05.24 (3)\\Program.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\13.05.24 (3)\\13.05.24 (3)\\Program.cs",
+              "RelativeToolTip": "13.05.24 (3)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:48:39.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

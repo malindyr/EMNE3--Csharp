@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\12.05.24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5512BDD4-82B6-47D4-8E81-404E8B8C2141}|12.05.24\\12.05.24.csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\12.05.24\\12.05.24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5512BDD4-82B6-47D4-8E81-404E8B8C2141}|12.05.24\\12.05.24.csproj|solutionrelative:12.05.24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\12.05.24\\12.05.24\\Program.cs",
+              "RelativeDocumentMoniker": "12.05.24\\Program.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\12.05.24\\12.05.24\\Program.cs",
+              "RelativeToolTip": "12.05.24\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:23:06.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
