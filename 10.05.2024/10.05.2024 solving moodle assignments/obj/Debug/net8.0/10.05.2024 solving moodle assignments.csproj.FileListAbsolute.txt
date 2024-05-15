@@ -1,0 +1,14 @@
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\bin\Debug\net8.0\10.05.2024 solving moodle assignments.exe
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\bin\Debug\net8.0\10.05.2024 solving moodle assignments.deps.json
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\bin\Debug\net8.0\10.05.2024 solving moodle assignments.runtimeconfig.json
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\bin\Debug\net8.0\10.05.2024 solving moodle assignments.dll
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\bin\Debug\net8.0\10.05.2024 solving moodle assignments.pdb
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\obj\Debug\net8.0\10.05.2024 solving moodle assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\obj\Debug\net8.0\10.05.2024 solving moodle assignments.AssemblyInfoInputs.cache
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\obj\Debug\net8.0\10.05.2024 solving moodle assignments.AssemblyInfo.cs
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\obj\Debug\net8.0\10.05.2024 solving moodle assignments.csproj.CoreCompileInputs.cache
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\obj\Debug\net8.0\10.05.2024 solving moodle assignments.dll
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\obj\Debug\net8.0\refint\10.05.2024 solving moodle assignments.dll
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\obj\Debug\net8.0\10.05.2024 solving moodle assignments.pdb
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\obj\Debug\net8.0\10.05.2024 solving moodle assignments.genruntimeconfig.cache
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\10.05.2024 solving moodle assignments\10.05.2024 solving moodle assignments\obj\Debug\net8.0\ref\10.05.2024 solving moodle assignments.dll

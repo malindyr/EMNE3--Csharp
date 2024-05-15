@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\11.05.24 moodle igjen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C241B4-CF0B-4983-B684-2C9E7F2DA5EC}|11.05.24 moodle igjen\\11.05.24 moodle igjen.csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\11.05.24 moodle igjen\\11.05.24 moodle igjen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C241B4-CF0B-4983-B684-2C9E7F2DA5EC}|11.05.24 moodle igjen\\11.05.24 moodle igjen.csproj|solutionrelative:11.05.24 moodle igjen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\11.05.24 moodle igjen\\11.05.24 moodle igjen\\Program.cs",
+              "RelativeDocumentMoniker": "11.05.24 moodle igjen\\Program.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\11.05.24 moodle igjen\\11.05.24 moodle igjen\\Program.cs",
+              "RelativeToolTip": "11.05.24 moodle igjen\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:20:45.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

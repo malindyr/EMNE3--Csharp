@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\10.05.2024 solving moodle assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{416C3783-6D4E-4F3C-BB3D-CE56FC127751}|10.05.2024 solving moodle assignments\\10.05.2024 solving moodle assignments.csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\10.05.2024 solving moodle assignments\\10.05.2024 solving moodle assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416C3783-6D4E-4F3C-BB3D-CE56FC127751}|10.05.2024 solving moodle assignments\\10.05.2024 solving moodle assignments.csproj|solutionrelative:10.05.2024 solving moodle assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\10.05.2024 solving moodle assignments\\10.05.2024 solving moodle assignments\\Program.cs",
+              "RelativeDocumentMoniker": "10.05.2024 solving moodle assignments\\Program.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\10.05.2024 solving moodle assignments\\10.05.2024 solving moodle assignments\\Program.cs*",
+              "RelativeToolTip": "10.05.2024 solving moodle assignments\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:18:35.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

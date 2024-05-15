@@ -1,0 +1,14 @@
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\bin\Debug\net8.0\11.05.24 moodle igjen.exe
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\bin\Debug\net8.0\11.05.24 moodle igjen.deps.json
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\bin\Debug\net8.0\11.05.24 moodle igjen.runtimeconfig.json
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\bin\Debug\net8.0\11.05.24 moodle igjen.dll
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\bin\Debug\net8.0\11.05.24 moodle igjen.pdb
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\obj\Debug\net8.0\11.05.24 moodle igjen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\obj\Debug\net8.0\11.05.24 moodle igjen.AssemblyInfoInputs.cache
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\obj\Debug\net8.0\11.05.24 moodle igjen.AssemblyInfo.cs
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\obj\Debug\net8.0\11.05.24 moodle igjen.csproj.CoreCompileInputs.cache
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\obj\Debug\net8.0\11.05.24 moodle igjen.dll
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\obj\Debug\net8.0\refint\11.05.24 moodle igjen.dll
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\obj\Debug\net8.0\11.05.24 moodle igjen.pdb
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\obj\Debug\net8.0\11.05.24 moodle igjen.genruntimeconfig.cache
+C:\Users\ferma\OneDrive\Desktop\EMNE 3\11.05.24 moodle igjen\11.05.24 moodle igjen\obj\Debug\net8.0\ref\11.05.24 moodle igjen.dll
