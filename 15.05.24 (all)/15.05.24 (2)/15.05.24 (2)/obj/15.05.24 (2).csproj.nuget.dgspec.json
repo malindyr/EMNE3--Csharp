@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\15.05.24 (2)\\15.05.24 (2)\\15.05.24 (2).csproj": {}
+    "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\15.05.24 (2).csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\15.05.24 (2)\\15.05.24 (2)\\15.05.24 (2).csproj": {
+    "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\15.05.24 (2).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\15.05.24 (2)\\15.05.24 (2)\\15.05.24 (2).csproj",
+        "projectUniqueName": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\15.05.24 (2).csproj",
         "projectName": "15.05.24 (2)",
-        "projectPath": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\15.05.24 (2)\\15.05.24 (2)\\15.05.24 (2).csproj",
+        "projectPath": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\15.05.24 (2).csproj",
         "packagesPath": "C:\\Users\\ferma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\15.05.24 (2)\\15.05.24 (2)\\obj\\",
+        "outputPath": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferma\\AppData\\Roaming\\NuGet\\NuGet.Config",
