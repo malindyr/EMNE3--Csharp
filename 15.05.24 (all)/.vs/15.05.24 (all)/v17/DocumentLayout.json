@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\studentClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:15.05.24 (2)\\15.05.24 (2)\\studentClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:15.05.24 (2)\\15.05.24 (2)\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\subjectClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:15.05.24 (2)\\15.05.24 (2)\\subjectClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:15.05.24 (2)\\15.05.24 (2)\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\Assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:15.05.24 (2)\\15.05.24 (2)\\Assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (3)\\15.05.24 (3)\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:15.05.24 (3)\\15.05.24 (3)\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:15.05.24\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\Program.cs",
+              "RelativeDocumentMoniker": "15.05.24 (2)\\15.05.24 (2)\\Program.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\Program.cs",
+              "RelativeToolTip": "15.05.24 (2)\\15.05.24 (2)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:29:26.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "subjectClass.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\subjectClass.cs",
+              "RelativeDocumentMoniker": "15.05.24 (2)\\15.05.24 (2)\\subjectClass.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\subjectClass.cs",
+              "RelativeToolTip": "15.05.24 (2)\\15.05.24 (2)\\subjectClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:26:54.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studentClass.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\studentClass.cs",
+              "RelativeDocumentMoniker": "15.05.24 (2)\\15.05.24 (2)\\studentClass.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\studentClass.cs",
+              "RelativeToolTip": "15.05.24 (2)\\15.05.24 (2)\\studentClass.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwDMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:26:47.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\Assignment.cs",
+              "RelativeDocumentMoniker": "15.05.24 (2)\\15.05.24 (2)\\Assignment.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\Assignment.cs",
+              "RelativeToolTip": "15.05.24 (2)\\15.05.24 (2)\\Assignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:26:46.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "grades.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\grades.cs",
+              "RelativeDocumentMoniker": "15.05.24 (2)\\15.05.24 (2)\\grades.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (2)\\15.05.24 (2)\\grades.cs",
+              "RelativeToolTip": "15.05.24 (2)\\15.05.24 (2)\\grades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:26:44.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (3)\\15.05.24 (3)\\Class1.cs",
+              "RelativeDocumentMoniker": "15.05.24 (3)\\15.05.24 (3)\\Class1.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24 (3)\\15.05.24 (3)\\Class1.cs",
+              "RelativeToolTip": "15.05.24 (3)\\15.05.24 (3)\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:26:38.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24\\Class1.cs",
+              "RelativeDocumentMoniker": "15.05.24\\Class1.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\15.05.24 (all)\\15.05.24\\Class1.cs",
+              "RelativeToolTip": "15.05.24\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:26:24.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
