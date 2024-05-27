@@ -28,13 +28,10 @@ Hero is the winner!
 Lykke til smile
 
 */
-
 Main();
 void Main()
 {
+    var Creeper = new Creeper();
+    Console.WriteLine($"strength: { Creeper.Strength}");
 
-    Steve steve = new Steve();
-    Creeper creeper = new Creeper();
-    Console.WriteLine(Creeper.Strength)
-  
 }

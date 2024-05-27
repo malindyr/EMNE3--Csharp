@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{246C7228-FE8F-4404-972D-2BA0ED547B7F}|27.05.24\\27.05.24.csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\csharp\\27.05.24\\27.05.24\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246C7228-FE8F-4404-972D-2BA0ED547B7F}|27.05.24\\27.05.24.csproj|solutionrelative:27.05.24\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246C7228-FE8F-4404-972D-2BA0ED547B7F}|27.05.24\\27.05.24.csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\csharp\\27.05.24\\27.05.24\\repairshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246C7228-FE8F-4404-972D-2BA0ED547B7F}|27.05.24\\27.05.24.csproj|solutionrelative:27.05.24\\repairshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246C7228-FE8F-4404-972D-2BA0ED547B7F}|27.05.24\\27.05.24.csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\csharp\\27.05.24\\27.05.24\\mechanic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246C7228-FE8F-4404-972D-2BA0ED547B7F}|27.05.24\\27.05.24.csproj|solutionrelative:27.05.24\\mechanic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246C7228-FE8F-4404-972D-2BA0ED547B7F}|27.05.24\\27.05.24.csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\csharp\\27.05.24\\27.05.24\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246C7228-FE8F-4404-972D-2BA0ED547B7F}|27.05.24\\27.05.24.csproj|solutionrelative:27.05.24\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246C7228-FE8F-4404-972D-2BA0ED547B7F}|27.05.24\\27.05.24.csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\csharp\\27.05.24\\27.05.24\\breaks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246C7228-FE8F-4404-972D-2BA0ED547B7F}|27.05.24\\27.05.24.csproj|solutionrelative:27.05.24\\breaks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{246C7228-FE8F-4404-972D-2BA0ED547B7F}|27.05.24\\27.05.24.csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\csharp\\27.05.24\\27.05.24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{246C7228-FE8F-4404-972D-2BA0ED547B7F}|27.05.24\\27.05.24.csproj|solutionrelative:27.05.24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "car.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\27.05.24\\car.cs",
+              "RelativeDocumentMoniker": "27.05.24\\car.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\27.05.24\\car.cs",
+              "RelativeToolTip": "27.05.24\\car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:26:21.798Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "repairshop.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\27.05.24\\repairshop.cs",
+              "RelativeDocumentMoniker": "27.05.24\\repairshop.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\27.05.24\\repairshop.cs",
+              "RelativeToolTip": "27.05.24\\repairshop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:12:07.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mechanic.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\27.05.24\\mechanic.cs",
+              "RelativeDocumentMoniker": "27.05.24\\mechanic.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\27.05.24\\mechanic.cs",
+              "RelativeToolTip": "27.05.24\\mechanic.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAzwBMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:42:47.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "engine.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\27.05.24\\engine.cs",
+              "RelativeDocumentMoniker": "27.05.24\\engine.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\27.05.24\\engine.cs",
+              "RelativeToolTip": "27.05.24\\engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:30:40.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "breaks.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\27.05.24\\breaks.cs",
+              "RelativeDocumentMoniker": "27.05.24\\breaks.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\27.05.24\\breaks.cs",
+              "RelativeToolTip": "27.05.24\\breaks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:29:18.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\27.05.24\\Program.cs",
+              "RelativeDocumentMoniker": "27.05.24\\Program.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24\\27.05.24\\Program.cs",
+              "RelativeToolTip": "27.05.24\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:11:01.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
