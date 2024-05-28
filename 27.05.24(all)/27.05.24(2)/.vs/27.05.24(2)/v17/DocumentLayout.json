@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24(all)\\27.05.24(2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6CF87C-17FF-4F0E-A416-E44392C11870}|27.05.24(2)\\27.05.24(2).csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\csharp\\27.05.24(all)\\27.05.24(2)\\27.05.24(2)\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6CF87C-17FF-4F0E-A416-E44392C11870}|27.05.24(2)\\27.05.24(2).csproj|solutionrelative:27.05.24(2)\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6CF87C-17FF-4F0E-A416-E44392C11870}|27.05.24(2)\\27.05.24(2).csproj|c:\\users\\ferma\\onedrive\\desktop\\emne 3\\csharp\\27.05.24(all)\\27.05.24(2)\\27.05.24(2)\\fight!.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6CF87C-17FF-4F0E-A416-E44392C11870}|27.05.24(2)\\27.05.24(2).csproj|solutionrelative:27.05.24(2)\\fight!.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24(all)\\27.05.24(2)\\27.05.24(2)\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "27.05.24(2)\\GameCharacter.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24(all)\\27.05.24(2)\\27.05.24(2)\\GameCharacter.cs",
+              "RelativeToolTip": "27.05.24(2)\\GameCharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:06:38.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fight!.cs",
+              "DocumentMoniker": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24(all)\\27.05.24(2)\\27.05.24(2)\\fight!.cs",
+              "RelativeDocumentMoniker": "27.05.24(2)\\fight!.cs",
+              "ToolTip": "C:\\Users\\ferma\\OneDrive\\Desktop\\EMNE 3\\CSharp\\27.05.24(all)\\27.05.24(2)\\27.05.24(2)\\fight!.cs",
+              "RelativeToolTip": "27.05.24(2)\\fight!.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:39:29.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
