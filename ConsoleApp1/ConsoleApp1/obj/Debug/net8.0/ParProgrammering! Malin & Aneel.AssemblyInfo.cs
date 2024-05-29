@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParProgrammering! Malin & Aneel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0adbb2c921108c451c2614aa206ac8eec336c4d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5199ddca0c75f6b8614341e5596afd6cd9bdae98")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParProgrammering! Malin & Aneel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParProgrammering! Malin & Aneel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
