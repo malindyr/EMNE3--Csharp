@@ -21,7 +21,8 @@ void Main()
     if(hero.Health >= 0)
     {
         Console.WriteLine("hero wins!");
-    } else { Console.WriteLine("boss wins!"); }
+    } else { Console.WriteLine("boss wins!");
+    }
 
     
 }
